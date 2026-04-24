@@ -1,6 +1,6 @@
 # rFactor2-IconGenerator
 
-#### BR
+#### BR🟢🟡
 Script PowerShell para redimensionar ícones de carros do rFactor 2 em todas as resoluções necessárias usando o ImageMagick.
 
 ## Requisitos
@@ -72,7 +72,7 @@ Cada imagem de entrada gera 5 arquivos:
 
 ---
 
-#### US
+#### US🔴🔵
 A PowerShell script to batch resize car icons for rFactor 2 into all required resolutions using ImageMagick.
 
 ## Requirements
