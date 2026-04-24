@@ -63,7 +63,7 @@ Cada imagem de entrada gera 5 arquivos:
 
 ## Changelog
 
-### v1.0.0
+### v1.0.0 (2024.04.24)
 - Lançamento inicial;
 - Redimensionamento em lote de arquivos PNG em todas as resoluções de ícone exigidas pelo rFactor 2;
 - Remoção automática do fundo usando o trim do ImageMagick;
@@ -76,8 +76,6 @@ Cada imagem de entrada gera 5 arquivos:
 A PowerShell script to batch resize car icons for rFactor 2 into all required resolutions using ImageMagick.
 
 ## Requirements
-
-- Windows
 - [ImageMagick](https://imagemagick.org/download/#windows) installed and available in PATH
 
 ## Folder structure
@@ -137,7 +135,7 @@ Each input image generates 5 files:
 
 ## Changelog
 
-### v1.0.0
+### v1.0.0 (2024.04.24)
 - Initial release;
 - Batch resizing of PNG files into all required rFactor 2 icon resolutions;
 - Automatic background removal using ImageMagick trim;
